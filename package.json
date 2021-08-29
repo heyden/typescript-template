@@ -1,0 +1,14 @@
+{
+  "name": "@aegis1k/typescript-template",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "16.4.13",
+    "typescript": "4.3.5"
+  },
+  "dependencies": {}
+}
